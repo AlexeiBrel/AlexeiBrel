@@ -1,6 +1,7 @@
 [[!Header](https://github.com/AlexeiBrel/AlexeiBrel/blob/main/assest/gif.gif)](https://github.com/AlexeiBrel)
 
-About
+### About
+I'm Alexei Brel, Junior Front-end developer!
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5)
