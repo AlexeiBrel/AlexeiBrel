@@ -14,6 +14,6 @@ About
 [![VK](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=Vk)](https://vk.com/id165082079)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Aliaksei_Brel)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/алексей-брель-7b98491a2)
-[![E-mail](https://img.shields.io/badge/-E-mail-black?style=for-the-badge&logo=E-mail)](brel.2000@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=Email)](brel.2000@mail.ru)
 
  
