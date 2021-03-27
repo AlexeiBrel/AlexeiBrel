@@ -1,4 +1,4 @@
-[[!Header](https://github.com/AlexeiBrel/AlexeiBrel/blob/main/assest/gif.gif)]
+
 
 ### About
 I'm Alexei Brel, Junior Front-end developer!
