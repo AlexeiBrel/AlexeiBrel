@@ -8,6 +8,7 @@ About
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=SASS)
 ![JS](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=JavaScript)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 Follow Me
 
  
