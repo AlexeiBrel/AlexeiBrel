@@ -8,7 +8,7 @@ I'm Alexei Brel, Junior Front-end developer!
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=SASS)
 ![JS](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=JavaScript)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=Webpack)
+![Agile](https://img.shields.io/badge/-Agile-black?style=for-the-badge&logo=Agile)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 
 ### Follow Me
